@@ -2,13 +2,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Humaira Fatima</h1>
-<h3 align="center">A web developer from pakistan...</h3>
+<h1 align="center"> I'm Humaira Fatima</h1>
+<h3 align="center"> web developer ...</h3>
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif"></>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humairafatima757&label=Profile%20views&color=0e75b6&style=flat" alt="humairafatima757" /> </p>
-
-- 🌱 I’m currently learning **react, SQL**
 
 - my linkdin url [https://www.linkedin.com/in/humaira-fatima-b18420292/](https://www.linkedin.com/in/humaira-fatima-b18420292/)
 
