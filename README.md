@@ -3,7 +3,8 @@
 
 
 <h1 align="center"> </h1>
-<h1 style="font-family: 'Cinzel', serif; font-size: 3em; color: #333; letter-spacing: 2px; text-transform: uppercase; background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">WEB DEVELOPER</h1>
+ <h1 style="font-family: 'Cinzel', serif; font-size: 3em; color: #333; letter-spacing: 2px; text-transform: uppercase; background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic;">WEB DEVELOPER</h1>
+
 
 
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif"></>
