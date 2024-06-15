@@ -3,7 +3,8 @@
 
 
 <h1 align="center"> </h1>
-<h1 align="center"> Web Developer ...</h1>
+<h1 style="font-family: 'Cinzel', serif; font-size: 3em; color: #333; text-align: center; letter-spacing: 2px; text-transform: uppercase; background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">WEB DEVELOPER</h1>
+
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif"></>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humairafatima757&label=Profile%20views&color=0e75b6&style=flat" alt="humairafatima757" /> </p>
@@ -17,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/humaira fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humaira fatima" height="30" width="40" /></a>
-<a href="https://instagram.com/humairafatima17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humairafatima17" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pembecig_fatma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humairafatima17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
