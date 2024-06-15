@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> </h1>
-<h1 align="center" style="font-family: 'Cinzel', serif; font-size: 3em; color: #333;> WEB DEVELOPER ...</h1>
+<h1 align="center"> WEB DEVELOPER ...</h1>
 
 
 
