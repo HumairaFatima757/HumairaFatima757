@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> </h1>
- <h1 style="font-family: 'Cinzel', serif; font-size: 3em; color: #333; letter-spacing: 2px; text-transform: uppercase; background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic;">WEB DEVELOPER</h1>
+<h1 align="center" style="font-family: 'Cinzel', serif; font-size: 3em; color: #333;> WEB DEVELOPER ...</h1>
 
 
 
