@@ -7,7 +7,7 @@
 
 
 
-<img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif"></>
+<img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humairafatima757&label=Profile%20views&color=0e75b6&style=flat" alt="humairafatima757" /> </p>
 
