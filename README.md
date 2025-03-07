@@ -1,4 +1,5 @@
-![logo](https://github.com/HumairaFatima757/HumairaFatima757/blob/main/Luxury%20Minimalist%20Black%20and%20White%20YouTube%20Banner%20(1).gif?raw=true)
+<img src="https://github.com/HumairaFatima757/HumairaFatima757/blob/main/Luxury%20Minimalist%20Black%20and%20White%20YouTube%20Banner%20(1).gif?raw=true" width="100%" height="150px">
+
 
 
 
