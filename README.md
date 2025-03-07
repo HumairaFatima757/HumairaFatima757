@@ -7,7 +7,8 @@
 
 
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=301459768826233956" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://yourgithubusercontent.com/image.png" height="445" width="345">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humairafatima757&label=Profile%20views&color=0e75b6&style=flat" alt="humairafatima757" /> </p>
 
