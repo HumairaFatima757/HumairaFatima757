@@ -1,4 +1,4 @@
-![logo](https://github.com/HumairaFatima757/HumairaFatima757/blob/main/White%20Clean%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
+![logo](https://github.com/HumairaFatima757/HumairaFatima757/blob/main/Luxury%20Minimalist%20Black%20and%20White%20YouTube%20Banner%20(1).gif?raw=true)
 
 
 
