@@ -7,7 +7,8 @@
 
 
 
-<img src="https://yourgithubusercontent.com/image.png" height="445" width="345">
+<img src="https://raw.githubusercontent.com/HumairaFatima757/HumairaFatima757/refs/heads/main/giphy_gif%20(480%C3%97360).gif" height="445" width="345" alt="GIF Image">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humairafatima757&label=Profile%20views&color=0e75b6&style=flat" alt="humairafatima757" /> </p>
