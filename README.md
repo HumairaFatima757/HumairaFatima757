@@ -16,7 +16,7 @@
 
 - my linkdin url [https://www.linkedin.com/in/humaira-fatima-b18420292/](https://www.linkedin.com/in/humaira-fatima-b18420292/)
 
-- 💬 Ask me about **html css javascript**
+- 💬 Ask me about **html css javascript React**
 
 - 📫 How to reach me **humairafatima844@gmail.com**
 
