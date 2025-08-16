@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **html css javascript React**
 
-- 📫 How to reach me **humairafatima844@gmail.com**
+- 📫 **humairafatima844@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/humaira fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humaira fatima" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pembecig_fatma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humairafatima17" height="30" width="40" /></a>
