@@ -8,7 +8,7 @@
 
 
 
-<img align="right"  alt="coding" width="400" src="https://raw.githubusercontent.com/HumairaFatima757/HumairaFatima757/refs/heads/main/giphy_gif%20(480%C3%97360).gif">
+<!--<img align="right"  alt="coding" width="400" src="https://raw.githubusercontent.com/HumairaFatima757/HumairaFatima757/refs/heads/main/giphy_gif%20(480%C3%97360).gif">-->
 
 
 
